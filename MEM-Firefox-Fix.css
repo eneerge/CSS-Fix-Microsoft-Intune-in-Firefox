@@ -1,0 +1,10 @@
+.azc-grid-area {
+    width:100% !important;
+}
+.azc-grid-container .azc-grid-tableContainer table {
+    width:100% !important;
+    max-width:1500px !important;
+}
+div.ext-wizardStepWidth {
+    max-width:1500px !important;
+}
